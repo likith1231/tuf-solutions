@@ -5,15 +5,15 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 7 / 488 |
-| Completion | 1.4% |
-| Last updated | 2026-09-18 |
+| Problems solved | 8 / 488 |
+| Completion | 1.6% |
+| Last updated | 2026-09-19 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
 |---|---|---|
 | arrays | 5 / 5 | 100.0% |
-| binary-search | 2 / 3 | 66.7% |
+| binary-search | 3 / 3 | 100.0% |
 | linked-list | 0 / 3 | 0.0% |
 | string | 0 / 2 | 0.0% |
 | recursion | 0 / 1 | 0.0% |
@@ -81,10 +81,11 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-18 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
-| 2026-09-18 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
-| 2026-09-18 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
-| 2026-09-18 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
-| 2026-09-18 | [Next Permutation](./arrays/3-next-permutation/) | arrays |
-| 2026-09-18 | [Pascal's Triangle](./arrays/2-pascals-triangle/) | arrays |
-| 2026-09-18 | [Set Matrix Zeroes](./arrays/1-set-matrix-zeroes/) | arrays |
+| 2026-09-19 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
+| 2026-09-19 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
+| 2026-09-19 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
+| 2026-09-19 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
+| 2026-09-19 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
+| 2026-09-19 | [Next Permutation](./arrays/3-next-permutation/) | arrays |
+| 2026-09-19 | [Pascal's Triangle](./arrays/2-pascals-triangle/) | arrays |
+| 2026-09-19 | [Set Matrix Zeroes](./arrays/1-set-matrix-zeroes/) | arrays |
