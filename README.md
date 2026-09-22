@@ -5,16 +5,16 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 10 / 488 |
-| Completion | 2.0% |
-| Last updated | 2026-09-21 |
+| Problems solved | 11 / 488 |
+| Completion | 2.3% |
+| Last updated | 2026-09-22 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
 |---|---|---|
 | arrays | 5 / 5 | 100.0% |
 | binary-search | 3 / 3 | 100.0% |
-| linked-list | 2 / 3 | 66.7% |
+| linked-list | 3 / 3 | 100.0% |
 | string | 0 / 2 | 0.0% |
 | recursion | 0 / 1 | 0.0% |
 | stack-queue | 0 / 2 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-21 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
-| 2026-09-21 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
-| 2026-09-21 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
-| 2026-09-21 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
-| 2026-09-21 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
-| 2026-09-21 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
-| 2026-09-21 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
-| 2026-09-21 | [Next Permutation](./arrays/3-next-permutation/) | arrays |
-| 2026-09-21 | [Pascal's Triangle](./arrays/2-pascals-triangle/) | arrays |
-| 2026-09-21 | [Set Matrix Zeroes](./arrays/1-set-matrix-zeroes/) | arrays |
+| 2026-09-22 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
+| 2026-09-22 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
+| 2026-09-22 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
+| 2026-09-22 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
+| 2026-09-22 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
+| 2026-09-22 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
+| 2026-09-22 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
+| 2026-09-22 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
+| 2026-09-22 | [Next Permutation](./arrays/3-next-permutation/) | arrays |
+| 2026-09-22 | [Pascal's Triangle](./arrays/2-pascals-triangle/) | arrays |
