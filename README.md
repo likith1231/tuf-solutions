@@ -5,9 +5,9 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 12 / 488 |
-| Completion | 2.5% |
-| Last updated | 2026-09-23 |
+| Problems solved | 13 / 488 |
+| Completion | 2.7% |
+| Last updated | 2026-09-24 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -15,7 +15,7 @@ One problem solved per day, automated.
 | arrays | 5 / 5 | 100.0% |
 | binary-search | 3 / 3 | 100.0% |
 | linked-list | 3 / 3 | 100.0% |
-| string | 1 / 2 | 50.0% |
+| string | 2 / 2 | 100.0% |
 | recursion | 0 / 1 | 0.0% |
 | stack-queue | 0 / 2 | 0.0% |
 | binary-tree | 0 / 2 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-23 | [Valid Anagram](./string/12-valid-anagram/) | string |
-| 2026-09-23 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
-| 2026-09-23 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
-| 2026-09-23 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
-| 2026-09-23 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
-| 2026-09-23 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
-| 2026-09-23 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
-| 2026-09-23 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
-| 2026-09-23 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
-| 2026-09-23 | [Next Permutation](./arrays/3-next-permutation/) | arrays |
+| 2026-09-24 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
+| 2026-09-24 | [Valid Anagram](./string/12-valid-anagram/) | string |
+| 2026-09-24 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
+| 2026-09-24 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
+| 2026-09-24 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
+| 2026-09-24 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
+| 2026-09-24 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
+| 2026-09-24 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
+| 2026-09-24 | [Sort Colors](./arrays/5-sort-colors/) | arrays |
+| 2026-09-24 | [Kadane's Algorithm](./arrays/4-kadanes-algorithm/) | arrays |
