@@ -5,9 +5,9 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 15 / 488 |
-| Completion | 3.1% |
-| Last updated | 2026-09-26 |
+| Problems solved | 16 / 488 |
+| Completion | 3.3% |
+| Last updated | 2026-09-27 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -17,7 +17,7 @@ One problem solved per day, automated.
 | linked-list | 3 / 3 | 100.0% |
 | string | 2 / 2 | 100.0% |
 | recursion | 1 / 1 | 100.0% |
-| stack-queue | 1 / 2 | 50.0% |
+| stack-queue | 2 / 2 | 100.0% |
 | binary-tree | 0 / 2 | 0.0% |
 | graphs | 0 / 2 | 0.0% |
 | dynamic-programming | 0 / 2 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-26 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
-| 2026-09-26 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
-| 2026-09-26 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
-| 2026-09-26 | [Valid Anagram](./string/12-valid-anagram/) | string |
-| 2026-09-26 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
-| 2026-09-26 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
-| 2026-09-26 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
-| 2026-09-26 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
-| 2026-09-26 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
-| 2026-09-26 | [Binary Search](./binary-search/6-binary-search/) | binary-search |
+| 2026-09-27 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
+| 2026-09-27 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
+| 2026-09-27 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
+| 2026-09-27 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
+| 2026-09-27 | [Valid Anagram](./string/12-valid-anagram/) | string |
+| 2026-09-27 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
+| 2026-09-27 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
+| 2026-09-27 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
+| 2026-09-27 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
+| 2026-09-27 | [Search in Rotated Sorted Array](./binary-search/7-search-in-rotated-sorted-array/) | binary-search |
