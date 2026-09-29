@@ -5,9 +5,9 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 17 / 488 |
-| Completion | 3.5% |
-| Last updated | 2026-09-28 |
+| Problems solved | 18 / 488 |
+| Completion | 3.7% |
+| Last updated | 2026-09-29 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -18,7 +18,7 @@ One problem solved per day, automated.
 | string | 2 / 2 | 100.0% |
 | recursion | 1 / 1 | 100.0% |
 | stack-queue | 2 / 2 | 100.0% |
-| binary-tree | 1 / 2 | 50.0% |
+| binary-tree | 2 / 2 | 100.0% |
 | graphs | 0 / 2 | 0.0% |
 | dynamic-programming | 0 / 2 | 0.0% |
 | Sorting-I | 0 / 3 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-28 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
-| 2026-09-28 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
-| 2026-09-28 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
-| 2026-09-28 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
-| 2026-09-28 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
-| 2026-09-28 | [Valid Anagram](./string/12-valid-anagram/) | string |
-| 2026-09-28 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
-| 2026-09-28 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
-| 2026-09-28 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
-| 2026-09-28 | [Koko Eating Bananas](./binary-search/8-koko-eating-bananas/) | binary-search |
+| 2026-09-29 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
+| 2026-09-29 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
+| 2026-09-29 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
+| 2026-09-29 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
+| 2026-09-29 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
+| 2026-09-29 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
+| 2026-09-29 | [Valid Anagram](./string/12-valid-anagram/) | string |
+| 2026-09-29 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
+| 2026-09-29 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
+| 2026-09-29 | [Reverse Linked List](./linked-list/9-reverse-linked-list/) | linked-list |
