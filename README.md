@@ -5,9 +5,9 @@ One problem solved per day, automated.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 19 / 488 |
-| Completion | 3.9% |
-| Last updated | 2026-09-30 |
+| Problems solved | 20 / 488 |
+| Completion | 4.1% |
+| Last updated | 2026-10-01 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -19,7 +19,7 @@ One problem solved per day, automated.
 | recursion | 1 / 1 | 100.0% |
 | stack-queue | 2 / 2 | 100.0% |
 | binary-tree | 2 / 2 | 100.0% |
-| graphs | 1 / 2 | 50.0% |
+| graphs | 2 / 2 | 100.0% |
 | dynamic-programming | 0 / 2 | 0.0% |
 | Sorting-I | 0 / 3 | 0.0% |
 | Sorting-II | 0 / 4 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day, automated.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-09-30 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
-| 2026-09-30 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
-| 2026-09-30 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
-| 2026-09-30 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
-| 2026-09-30 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
-| 2026-09-30 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
-| 2026-09-30 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
-| 2026-09-30 | [Valid Anagram](./string/12-valid-anagram/) | string |
-| 2026-09-30 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
-| 2026-09-30 | [Detect Loop in Linked List](./linked-list/10-detect-loop-in-linked-list/) | linked-list |
+| 2026-10-01 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
+| 2026-10-01 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
+| 2026-10-01 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
+| 2026-10-01 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
+| 2026-10-01 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
+| 2026-10-01 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
+| 2026-10-01 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
+| 2026-10-01 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
+| 2026-10-01 | [Valid Anagram](./string/12-valid-anagram/) | string |
+| 2026-10-01 | [Merge Two Sorted Lists](./linked-list/11-merge-two-sorted-lists/) | linked-list |
