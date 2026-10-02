@@ -1,6 +1,6 @@
 # Java Solutions — TUF A2Z Sheet
 
-One problem solved per day, automated.
+One problem solved per day.
 
 ## Progress
 | Metric | Value |
