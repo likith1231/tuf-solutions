@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 21 / 488 |
-| Completion | 4.3% |
-| Last updated | 2026-10-02 |
+| Problems solved | 22 / 488 |
+| Completion | 4.5% |
+| Last updated | 2026-10-03 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -20,7 +20,7 @@ One problem solved per day.
 | stack-queue | 2 / 2 | 100.0% |
 | binary-tree | 2 / 2 | 100.0% |
 | graphs | 2 / 2 | 100.0% |
-| dynamic-programming | 1 / 2 | 50.0% |
+| dynamic-programming | 2 / 2 | 100.0% |
 | Sorting-I | 0 / 3 | 0.0% |
 | Sorting-II | 0 / 4 | 0.0% |
 | Arrays-Easy | 0 / 3 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-02 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
-| 2026-10-02 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
-| 2026-10-02 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
-| 2026-10-02 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
-| 2026-10-02 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
-| 2026-10-02 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
-| 2026-10-02 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
-| 2026-10-02 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
-| 2026-10-02 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
-| 2026-10-02 | [Valid Anagram](./string/12-valid-anagram/) | string |
+| 2026-10-03 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
+| 2026-10-03 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
+| 2026-10-03 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
+| 2026-10-03 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
+| 2026-10-03 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
+| 2026-10-03 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
+| 2026-10-03 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
+| 2026-10-03 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
+| 2026-10-03 | [Subset Sums](./recursion/14-subset-sums/) | recursion |
+| 2026-10-03 | [Longest Substring Without Repeating Characters](./string/13-longest-substring-without-repeating-characters/) | string |
