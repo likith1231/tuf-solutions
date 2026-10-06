@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 24 / 488 |
-| Completion | 4.9% |
-| Last updated | 2026-10-05 |
+| Problems solved | 25 / 488 |
+| Completion | 5.1% |
+| Last updated | 2026-10-06 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -21,7 +21,7 @@ One problem solved per day.
 | binary-tree | 2 / 2 | 100.0% |
 | graphs | 2 / 2 | 100.0% |
 | dynamic-programming | 2 / 2 | 100.0% |
-| Sorting-I | 2 / 3 | 66.7% |
+| Sorting-I | 3 / 3 | 100.0% |
 | Sorting-II | 0 / 4 | 0.0% |
 | Arrays-Easy | 0 / 3 | 0.0% |
 | Things to Know in C++/Java/Python or any language | 0 / 9 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-05 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
-| 2026-10-05 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
-| 2026-10-05 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
-| 2026-10-05 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
-| 2026-10-05 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
-| 2026-10-05 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
-| 2026-10-05 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
-| 2026-10-05 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
-| 2026-10-05 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
-| 2026-10-05 | [Valid Parentheses](./stack-queue/15-valid-parentheses/) | stack-queue |
+| 2026-10-06 | [Insertion Sorting](./sorting-i/insertion-sorting-insertion-sorting/) | Sorting-I |
+| 2026-10-06 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
+| 2026-10-06 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
+| 2026-10-06 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
+| 2026-10-06 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
+| 2026-10-06 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
+| 2026-10-06 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
+| 2026-10-06 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
+| 2026-10-06 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
+| 2026-10-06 | [Next Greater Element](./stack-queue/16-next-greater-element/) | stack-queue |
