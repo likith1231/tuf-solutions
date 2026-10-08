@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 26 / 488 |
-| Completion | 5.3% |
-| Last updated | 2026-10-07 |
+| Problems solved | 27 / 488 |
+| Completion | 5.5% |
+| Last updated | 2026-10-08 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -22,7 +22,7 @@ One problem solved per day.
 | graphs | 2 / 2 | 100.0% |
 | dynamic-programming | 2 / 2 | 100.0% |
 | Sorting-I | 3 / 3 | 100.0% |
-| Sorting-II | 1 / 4 | 25.0% |
+| Sorting-II | 2 / 4 | 50.0% |
 | Arrays-Easy | 0 / 3 | 0.0% |
 | Things to Know in C++/Java/Python or any language | 0 / 9 | 0.0% |
 | Build-up Logical Thinking | 0 / 2 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-07 | [Merge Sorting](./sorting-ii/merge-sorting-merge-sorting/) | Sorting-II |
-| 2026-10-07 | [Insertion Sorting](./sorting-i/insertion-sorting-insertion-sorting/) | Sorting-I |
-| 2026-10-07 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
-| 2026-10-07 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
-| 2026-10-07 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
-| 2026-10-07 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
-| 2026-10-07 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
-| 2026-10-07 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
-| 2026-10-07 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
-| 2026-10-07 | [Maximum Depth of Binary Tree](./binary-tree/17-maximum-depth-of-binary-tree/) | binary-tree |
+| 2026-10-08 | [Recursive Bubble Sort](./sorting-ii/recursive-bubble-sort-recursive-bubble-sort/) | Sorting-II |
+| 2026-10-08 | [Merge Sorting](./sorting-ii/merge-sorting-merge-sorting/) | Sorting-II |
+| 2026-10-08 | [Insertion Sorting](./sorting-i/insertion-sorting-insertion-sorting/) | Sorting-I |
+| 2026-10-08 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
+| 2026-10-08 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
+| 2026-10-08 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
+| 2026-10-08 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
+| 2026-10-08 | [DFS of Graph](./graphs/20-dfs-of-graph/) | graphs |
+| 2026-10-08 | [BFS of Graph](./graphs/19-bfs-of-graph/) | graphs |
+| 2026-10-08 | [Diameter of Binary Tree](./binary-tree/18-diameter-of-binary-tree/) | binary-tree |
