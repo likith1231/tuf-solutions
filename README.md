@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 30 / 488 |
-| Completion | 6.1% |
-| Last updated | 2026-10-11 |
+| Problems solved | 31 / 488 |
+| Completion | 6.4% |
+| Last updated | 2026-10-12 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -23,7 +23,7 @@ One problem solved per day.
 | dynamic-programming | 2 / 2 | 100.0% |
 | Sorting-I | 3 / 3 | 100.0% |
 | Sorting-II | 4 / 4 | 100.0% |
-| Arrays-Easy | 1 / 3 | 33.3% |
+| Arrays-Easy | 2 / 3 | 66.7% |
 | Things to Know in C++/Java/Python or any language | 0 / 9 | 0.0% |
 | Build-up Logical Thinking | 0 / 2 | 0.0% |
 | Patterns | 0 / 22 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-11 | [Largest Element](./arrays-easy/largest-element-largest-element/) | Arrays-Easy |
-| 2026-10-11 | [Quick Sorting](./sorting-ii/quick-sorting-quick-sorting/) | Sorting-II |
-| 2026-10-11 | [Recursive Insertion Sort](./sorting-ii/recursive-insertion-sort-recursive-insertion-sort/) | Sorting-II |
-| 2026-10-11 | [Recursive Bubble Sort](./sorting-ii/recursive-bubble-sort-recursive-bubble-sort/) | Sorting-II |
-| 2026-10-11 | [Merge Sorting](./sorting-ii/merge-sorting-merge-sorting/) | Sorting-II |
-| 2026-10-11 | [Insertion Sorting](./sorting-i/insertion-sorting-insertion-sorting/) | Sorting-I |
-| 2026-10-11 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
-| 2026-10-11 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
-| 2026-10-11 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
-| 2026-10-11 | [Climbing Stairs](./dynamic-programming/21-climbing-stairs/) | dynamic-programming |
+| 2026-10-12 | [Second Largest Element](./arrays-easy/second-largest-element-second-largest-element/) | Arrays-Easy |
+| 2026-10-12 | [Largest Element](./arrays-easy/largest-element-largest-element/) | Arrays-Easy |
+| 2026-10-12 | [Quick Sorting](./sorting-ii/quick-sorting-quick-sorting/) | Sorting-II |
+| 2026-10-12 | [Recursive Insertion Sort](./sorting-ii/recursive-insertion-sort-recursive-insertion-sort/) | Sorting-II |
+| 2026-10-12 | [Recursive Bubble Sort](./sorting-ii/recursive-bubble-sort-recursive-bubble-sort/) | Sorting-II |
+| 2026-10-12 | [Merge Sorting](./sorting-ii/merge-sorting-merge-sorting/) | Sorting-II |
+| 2026-10-12 | [Insertion Sorting](./sorting-i/insertion-sorting-insertion-sorting/) | Sorting-I |
+| 2026-10-12 | [Bubble Sort](./sorting-i/bubble-sort-bubble-sort/) | Sorting-I |
+| 2026-10-12 | [Selection Sort](./sorting-i/selection-sort-selection-sort/) | Sorting-I |
+| 2026-10-12 | [0-1 Knapsack Problem](./dynamic-programming/22-0-1-knapsack-problem/) | dynamic-programming |
