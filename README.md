@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 38 / 488 |
-| Completion | 7.8% |
-| Last updated | 2026-10-21 |
+| Problems solved | 39 / 488 |
+| Completion | 8.0% |
+| Last updated | 2026-10-22 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -24,7 +24,7 @@ One problem solved per day.
 | Sorting-I | 3 / 3 | 100.0% |
 | Sorting-II | 4 / 4 | 100.0% |
 | Arrays-Easy | 3 / 3 | 100.0% |
-| Things to Know in C++/Java/Python or any language | 6 / 9 | 66.7% |
+| Things to Know in C++/Java/Python or any language | 7 / 9 | 77.8% |
 | Build-up Logical Thinking | 0 / 2 | 0.0% |
 | Patterns | 0 / 22 | 0.0% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-21 | [For loops](./things-to-know-in-cjavapython-or-any-language/for-loops-for-loops/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [What are arrays, strings?](./things-to-know-in-cjavapython-or-any-language/what-are-arrays-strings-what-are-arrays-strings/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [Switch Case](./things-to-know-in-cjavapython-or-any-language/switch-case-switch-case/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [If ElseIf](./things-to-know-in-cjavapython-or-any-language/if-elseif-if-elseif/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [Cpp Basics](./things-to-know-in-cjavapython-or-any-language/cpp-basics-cpp-basics/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [Input Output](./things-to-know-in-cjavapython-or-any-language/input-output-input-output/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-21 | [Check if the Array is Sorted II](./arrays-easy/check-if-the-array-is-sorted-ii-check-if-the-array-is-sorted-ii/) | Arrays-Easy |
-| 2026-10-21 | [Second Largest Element](./arrays-easy/second-largest-element-second-largest-element/) | Arrays-Easy |
-| 2026-10-21 | [Largest Element](./arrays-easy/largest-element-largest-element/) | Arrays-Easy |
-| 2026-10-21 | [Quick Sorting](./sorting-ii/quick-sorting-quick-sorting/) | Sorting-II |
+| 2026-10-22 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [For loops](./things-to-know-in-cjavapython-or-any-language/for-loops-for-loops/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [What are arrays, strings?](./things-to-know-in-cjavapython-or-any-language/what-are-arrays-strings-what-are-arrays-strings/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [Switch Case](./things-to-know-in-cjavapython-or-any-language/switch-case-switch-case/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [If ElseIf](./things-to-know-in-cjavapython-or-any-language/if-elseif-if-elseif/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [Cpp Basics](./things-to-know-in-cjavapython-or-any-language/cpp-basics-cpp-basics/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [Input Output](./things-to-know-in-cjavapython-or-any-language/input-output-input-output/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-22 | [Check if the Array is Sorted II](./arrays-easy/check-if-the-array-is-sorted-ii-check-if-the-array-is-sorted-ii/) | Arrays-Easy |
+| 2026-10-22 | [Second Largest Element](./arrays-easy/second-largest-element-second-largest-element/) | Arrays-Easy |
+| 2026-10-22 | [Largest Element](./arrays-easy/largest-element-largest-element/) | Arrays-Easy |
