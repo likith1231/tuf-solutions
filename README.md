@@ -5,8 +5,8 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 41 / 488 |
-| Completion | 8.4% |
+| Problems solved | 42 / 488 |
+| Completion | 8.6% |
 | Last updated | 2026-10-25 |
 
 ## Topic-wise progress
@@ -25,7 +25,7 @@ One problem solved per day.
 | Sorting-II | 4 / 4 | 100.0% |
 | Arrays-Easy | 3 / 3 | 100.0% |
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
-| Build-up Logical Thinking | 0 / 2 | 0.0% |
+| Build-up Logical Thinking | 1 / 2 | 50.0% |
 | Patterns | 0 / 22 | 0.0% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
@@ -81,6 +81,7 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
+| 2026-10-25 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
 | 2026-10-25 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
 | 2026-10-25 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
 | 2026-10-25 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
@@ -90,4 +91,3 @@ One problem solved per day.
 | 2026-10-25 | [If ElseIf](./things-to-know-in-cjavapython-or-any-language/if-elseif-if-elseif/) | Things to Know in C++/Java/Python or any language |
 | 2026-10-25 | [Cpp Basics](./things-to-know-in-cjavapython-or-any-language/cpp-basics-cpp-basics/) | Things to Know in C++/Java/Python or any language |
 | 2026-10-25 | [Input Output](./things-to-know-in-cjavapython-or-any-language/input-output-input-output/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [Check if the Array is Sorted II](./arrays-easy/check-if-the-array-is-sorted-ii-check-if-the-array-is-sorted-ii/) | Arrays-Easy |
