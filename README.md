@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 42 / 488 |
-| Completion | 8.6% |
-| Last updated | 2026-10-25 |
+| Problems solved | 43 / 488 |
+| Completion | 8.8% |
+| Last updated | 2026-10-26 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -25,7 +25,7 @@ One problem solved per day.
 | Sorting-II | 4 / 4 | 100.0% |
 | Arrays-Easy | 3 / 3 | 100.0% |
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
-| Build-up Logical Thinking | 1 / 2 | 50.0% |
+| Build-up Logical Thinking | 2 / 2 | 100.0% |
 | Patterns | 0 / 22 | 0.0% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-25 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
-| 2026-10-25 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [For loops](./things-to-know-in-cjavapython-or-any-language/for-loops-for-loops/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [What are arrays, strings?](./things-to-know-in-cjavapython-or-any-language/what-are-arrays-strings-what-are-arrays-strings/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [Switch Case](./things-to-know-in-cjavapython-or-any-language/switch-case-switch-case/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [If ElseIf](./things-to-know-in-cjavapython-or-any-language/if-elseif-if-elseif/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [Cpp Basics](./things-to-know-in-cjavapython-or-any-language/cpp-basics-cpp-basics/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-25 | [Input Output](./things-to-know-in-cjavapython-or-any-language/input-output-input-output/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
+| 2026-10-26 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
+| 2026-10-26 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [For loops](./things-to-know-in-cjavapython-or-any-language/for-loops-for-loops/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [What are arrays, strings?](./things-to-know-in-cjavapython-or-any-language/what-are-arrays-strings-what-are-arrays-strings/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [Switch Case](./things-to-know-in-cjavapython-or-any-language/switch-case-switch-case/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [If ElseIf](./things-to-know-in-cjavapython-or-any-language/if-elseif-if-elseif/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-26 | [Cpp Basics](./things-to-know-in-cjavapython-or-any-language/cpp-basics-cpp-basics/) | Things to Know in C++/Java/Python or any language |
