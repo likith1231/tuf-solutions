@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 47 / 488 |
-| Completion | 9.6% |
-| Last updated | 2026-10-30 |
+| Problems solved | 48 / 488 |
+| Completion | 9.8% |
+| Last updated | 2026-10-31 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -26,7 +26,7 @@ One problem solved per day.
 | Arrays-Easy | 3 / 3 | 100.0% |
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
 | Build-up Logical Thinking | 2 / 2 | 100.0% |
-| Patterns | 4 / 22 | 18.2% |
+| Patterns | 5 / 22 | 22.7% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
 | Learn Basic Recursion | 0 / 9 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-10-30 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
-| 2026-10-30 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
-| 2026-10-30 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
-| 2026-10-30 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
-| 2026-10-30 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
-| 2026-10-30 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
-| 2026-10-30 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-30 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-30 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
-| 2026-10-30 | [For loops](./things-to-know-in-cjavapython-or-any-language/for-loops-for-loops/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-31 | [Pattern 5](./patterns/pattern-5-pattern-5/) | Patterns |
+| 2026-10-31 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
+| 2026-10-31 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
+| 2026-10-31 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
+| 2026-10-31 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
+| 2026-10-31 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
+| 2026-10-31 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
+| 2026-10-31 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-31 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
+| 2026-10-31 | [While loops](./things-to-know-in-cjavapython-or-any-language/while-loops-while-loops/) | Things to Know in C++/Java/Python or any language |
