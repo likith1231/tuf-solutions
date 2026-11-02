@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 49 / 488 |
-| Completion | 10.0% |
-| Last updated | 2026-11-01 |
+| Problems solved | 50 / 488 |
+| Completion | 10.2% |
+| Last updated | 2026-11-02 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -26,7 +26,7 @@ One problem solved per day.
 | Arrays-Easy | 3 / 3 | 100.0% |
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
 | Build-up Logical Thinking | 2 / 2 | 100.0% |
-| Patterns | 6 / 22 | 27.3% |
+| Patterns | 7 / 22 | 31.8% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
 | Learn Basic Recursion | 0 / 9 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-11-01 | [Pattern 6](./patterns/pattern-6-pattern-6/) | Patterns |
-| 2026-11-01 | [Pattern 5](./patterns/pattern-5-pattern-5/) | Patterns |
-| 2026-11-01 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
-| 2026-11-01 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
-| 2026-11-01 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
-| 2026-11-01 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
-| 2026-11-01 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
-| 2026-11-01 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
-| 2026-11-01 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
-| 2026-11-01 | [Functions (Pass by Reference and Value)](./things-to-know-in-cjavapython-or-any-language/functions-pass-by-reference-and-value-functions-pass-by-reference-and-value/) | Things to Know in C++/Java/Python or any language |
+| 2026-11-02 | [Pattern 7](./patterns/pattern-7-pattern-7/) | Patterns |
+| 2026-11-02 | [Pattern 6](./patterns/pattern-6-pattern-6/) | Patterns |
+| 2026-11-02 | [Pattern 5](./patterns/pattern-5-pattern-5/) | Patterns |
+| 2026-11-02 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
+| 2026-11-02 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
+| 2026-11-02 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
+| 2026-11-02 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
+| 2026-11-02 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
+| 2026-11-02 | [Easy and Medium](./build-up-logical-thinking/easy-and-medium-easy-and-medium/) | Build-up Logical Thinking |
+| 2026-11-02 | [Theory with examples](./things-to-know-in-cjavapython-or-any-language/theory-with-examples-theory-with-examples/) | Things to Know in C++/Java/Python or any language |
