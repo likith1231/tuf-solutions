@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 52 / 488 |
-| Completion | 10.7% |
-| Last updated | 2026-11-04 |
+| Problems solved | 53 / 488 |
+| Completion | 10.9% |
+| Last updated | 2026-11-05 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -26,7 +26,7 @@ One problem solved per day.
 | Arrays-Easy | 3 / 3 | 100.0% |
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
 | Build-up Logical Thinking | 2 / 2 | 100.0% |
-| Patterns | 9 / 22 | 40.9% |
+| Patterns | 10 / 22 | 45.5% |
 | Learn STL/Java-Collections or similar thing in your language | 0 / 2 | 0.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
 | Learn Basic Recursion | 0 / 9 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-11-04 | [Pattern 9](./patterns/pattern-9-pattern-9/) | Patterns |
-| 2026-11-04 | [Pattern 8](./patterns/pattern-8-pattern-8/) | Patterns |
-| 2026-11-04 | [Pattern 7](./patterns/pattern-7-pattern-7/) | Patterns |
-| 2026-11-04 | [Pattern 6](./patterns/pattern-6-pattern-6/) | Patterns |
-| 2026-11-04 | [Pattern 5](./patterns/pattern-5-pattern-5/) | Patterns |
-| 2026-11-04 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
-| 2026-11-04 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
-| 2026-11-04 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
-| 2026-11-04 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
-| 2026-11-04 | [Hard](./build-up-logical-thinking/hard-hard/) | Build-up Logical Thinking |
+| 2026-11-05 | [Pattern 10](./patterns/pattern-10-pattern-10/) | Patterns |
+| 2026-11-05 | [Pattern 9](./patterns/pattern-9-pattern-9/) | Patterns |
+| 2026-11-05 | [Pattern 8](./patterns/pattern-8-pattern-8/) | Patterns |
+| 2026-11-05 | [Pattern 7](./patterns/pattern-7-pattern-7/) | Patterns |
+| 2026-11-05 | [Pattern 6](./patterns/pattern-6-pattern-6/) | Patterns |
+| 2026-11-05 | [Pattern 5](./patterns/pattern-5-pattern-5/) | Patterns |
+| 2026-11-05 | [Pattern 4](./patterns/pattern-4-pattern-4/) | Patterns |
+| 2026-11-05 | [Pattern 3](./patterns/pattern-3-pattern-3/) | Patterns |
+| 2026-11-05 | [Pattern 2](./patterns/pattern-2-pattern-2/) | Patterns |
+| 2026-11-05 | [Pattern 1](./patterns/pattern-1-pattern-1/) | Patterns |
