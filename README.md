@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 66 / 488 |
-| Completion | 13.5% |
-| Last updated | 2026-11-19 |
+| Problems solved | 67 / 488 |
+| Completion | 13.7% |
+| Last updated | 2026-11-20 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -27,7 +27,7 @@ One problem solved per day.
 | Things to Know in C++/Java/Python or any language | 9 / 9 | 100.0% |
 | Build-up Logical Thinking | 2 / 2 | 100.0% |
 | Patterns | 22 / 22 | 100.0% |
-| Learn STL/Java-Collections or similar thing in your language | 1 / 2 | 50.0% |
+| Learn STL/Java-Collections or similar thing in your language | 2 / 2 | 100.0% |
 | Know Basic Maths | 0 / 7 | 0.0% |
 | Learn Basic Recursion | 0 / 9 | 0.0% |
 | Learn Basic Hashing | 0 / 3 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-11-19 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
-| 2026-11-19 | [Pattern 22](./patterns/pattern-22-pattern-22/) | Patterns |
-| 2026-11-19 | [Pattern 21](./patterns/pattern-21-pattern-21/) | Patterns |
-| 2026-11-19 | [Pattern 20](./patterns/pattern-20-pattern-20/) | Patterns |
-| 2026-11-19 | [Pattern 19](./patterns/pattern-19-pattern-19/) | Patterns |
-| 2026-11-19 | [Pattern 18](./patterns/pattern-18-pattern-18/) | Patterns |
-| 2026-11-19 | [Pattern 17](./patterns/pattern-17-pattern-17/) | Patterns |
-| 2026-11-19 | [Pattern 16](./patterns/pattern-16-pattern-16/) | Patterns |
-| 2026-11-19 | [Pattern 15](./patterns/pattern-15-pattern-15/) | Patterns |
-| 2026-11-19 | [Pattern 14](./patterns/pattern-14-pattern-14/) | Patterns |
+| 2026-11-20 | [Java Collections](./learn-stljava-collections-or-similar-thing-in-your-language/java-collections-java-collections/) | Learn STL/Java-Collections or similar thing in your language |
+| 2026-11-20 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
+| 2026-11-20 | [Pattern 22](./patterns/pattern-22-pattern-22/) | Patterns |
+| 2026-11-20 | [Pattern 21](./patterns/pattern-21-pattern-21/) | Patterns |
+| 2026-11-20 | [Pattern 20](./patterns/pattern-20-pattern-20/) | Patterns |
+| 2026-11-20 | [Pattern 19](./patterns/pattern-19-pattern-19/) | Patterns |
+| 2026-11-20 | [Pattern 18](./patterns/pattern-18-pattern-18/) | Patterns |
+| 2026-11-20 | [Pattern 17](./patterns/pattern-17-pattern-17/) | Patterns |
+| 2026-11-20 | [Pattern 16](./patterns/pattern-16-pattern-16/) | Patterns |
+| 2026-11-20 | [Pattern 15](./patterns/pattern-15-pattern-15/) | Patterns |
