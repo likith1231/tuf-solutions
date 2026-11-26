@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 72 / 488 |
-| Completion | 14.8% |
-| Last updated | 2026-11-25 |
+| Problems solved | 73 / 488 |
+| Completion | 15.0% |
+| Last updated | 2026-11-26 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -28,7 +28,7 @@ One problem solved per day.
 | Build-up Logical Thinking | 2 / 2 | 100.0% |
 | Patterns | 22 / 22 | 100.0% |
 | Learn STL/Java-Collections or similar thing in your language | 2 / 2 | 100.0% |
-| Know Basic Maths | 5 / 7 | 71.4% |
+| Know Basic Maths | 6 / 7 | 85.7% |
 | Learn Basic Recursion | 0 / 9 | 0.0% |
 | Learn Basic Hashing | 0 / 3 | 0.0% |
 | Easy | 0 / 11 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-11-25 | [Check if the Number is Armstrong](./know-basic-maths/check-if-the-number-is-armstrong-check-if-the-number-is-armstrong/) | Know Basic Maths |
-| 2026-11-25 | [GCD of Two Numbers](./know-basic-maths/gcd-of-two-numbers-gcd-of-two-numbers/) | Know Basic Maths |
-| 2026-11-25 | [Palindrome Number](./know-basic-maths/palindrome-number-palindrome-number/) | Know Basic Maths |
-| 2026-11-25 | [Reverse a number](./know-basic-maths/reverse-a-number-reverse-a-number/) | Know Basic Maths |
-| 2026-11-25 | [Count all Digits of a Number](./know-basic-maths/count-all-digits-of-a-number-count-all-digits-of-a-number/) | Know Basic Maths |
-| 2026-11-25 | [Java Collections](./learn-stljava-collections-or-similar-thing-in-your-language/java-collections-java-collections/) | Learn STL/Java-Collections or similar thing in your language |
-| 2026-11-25 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
-| 2026-11-25 | [Pattern 22](./patterns/pattern-22-pattern-22/) | Patterns |
-| 2026-11-25 | [Pattern 21](./patterns/pattern-21-pattern-21/) | Patterns |
-| 2026-11-25 | [Pattern 20](./patterns/pattern-20-pattern-20/) | Patterns |
+| 2026-11-26 | [Print all Divisors](./know-basic-maths/print-all-divisors-print-all-divisors/) | Know Basic Maths |
+| 2026-11-26 | [Check if the Number is Armstrong](./know-basic-maths/check-if-the-number-is-armstrong-check-if-the-number-is-armstrong/) | Know Basic Maths |
+| 2026-11-26 | [GCD of Two Numbers](./know-basic-maths/gcd-of-two-numbers-gcd-of-two-numbers/) | Know Basic Maths |
+| 2026-11-26 | [Palindrome Number](./know-basic-maths/palindrome-number-palindrome-number/) | Know Basic Maths |
+| 2026-11-26 | [Reverse a number](./know-basic-maths/reverse-a-number-reverse-a-number/) | Know Basic Maths |
+| 2026-11-26 | [Count all Digits of a Number](./know-basic-maths/count-all-digits-of-a-number-count-all-digits-of-a-number/) | Know Basic Maths |
+| 2026-11-26 | [Java Collections](./learn-stljava-collections-or-similar-thing-in-your-language/java-collections-java-collections/) | Learn STL/Java-Collections or similar thing in your language |
+| 2026-11-26 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
+| 2026-11-26 | [Pattern 22](./patterns/pattern-22-pattern-22/) | Patterns |
+| 2026-11-26 | [Pattern 21](./patterns/pattern-21-pattern-21/) | Patterns |
