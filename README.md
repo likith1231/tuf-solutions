@@ -5,9 +5,9 @@ One problem solved per day.
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 74 / 488 |
-| Completion | 15.2% |
-| Last updated | 2026-11-27 |
+| Problems solved | 75 / 488 |
+| Completion | 15.4% |
+| Last updated | 2026-11-28 |
 
 ## Topic-wise progress
 | Topic | Solved | Progress |
@@ -29,7 +29,7 @@ One problem solved per day.
 | Patterns | 22 / 22 | 100.0% |
 | Learn STL/Java-Collections or similar thing in your language | 2 / 2 | 100.0% |
 | Know Basic Maths | 7 / 7 | 100.0% |
-| Learn Basic Recursion | 0 / 9 | 0.0% |
+| Learn Basic Recursion | 1 / 9 | 11.1% |
 | Learn Basic Hashing | 0 / 3 | 0.0% |
 | Easy | 0 / 11 | 0.0% |
 | Medium | 0 / 11 | 0.0% |
@@ -81,13 +81,13 @@ One problem solved per day.
 ## Recent activity
 | Date | Problem | Topic |
 |---|---|---|
-| 2026-11-27 | [Check for Prime Number](./know-basic-maths/check-for-prime-number-check-for-prime-number/) | Know Basic Maths |
-| 2026-11-27 | [Print all Divisors](./know-basic-maths/print-all-divisors-print-all-divisors/) | Know Basic Maths |
-| 2026-11-27 | [Check if the Number is Armstrong](./know-basic-maths/check-if-the-number-is-armstrong-check-if-the-number-is-armstrong/) | Know Basic Maths |
-| 2026-11-27 | [GCD of Two Numbers](./know-basic-maths/gcd-of-two-numbers-gcd-of-two-numbers/) | Know Basic Maths |
-| 2026-11-27 | [Palindrome Number](./know-basic-maths/palindrome-number-palindrome-number/) | Know Basic Maths |
-| 2026-11-27 | [Reverse a number](./know-basic-maths/reverse-a-number-reverse-a-number/) | Know Basic Maths |
-| 2026-11-27 | [Count all Digits of a Number](./know-basic-maths/count-all-digits-of-a-number-count-all-digits-of-a-number/) | Know Basic Maths |
-| 2026-11-27 | [Java Collections](./learn-stljava-collections-or-similar-thing-in-your-language/java-collections-java-collections/) | Learn STL/Java-Collections or similar thing in your language |
-| 2026-11-27 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
-| 2026-11-27 | [Pattern 22](./patterns/pattern-22-pattern-22/) | Patterns |
+| 2026-11-28 | [Understand recursion by print something N times](./learn-basic-recursion/understand-recursion-by-print-something-n-times-understand-recursion-by-print-something-n-times/) | Learn Basic Recursion |
+| 2026-11-28 | [Check for Prime Number](./know-basic-maths/check-for-prime-number-check-for-prime-number/) | Know Basic Maths |
+| 2026-11-28 | [Print all Divisors](./know-basic-maths/print-all-divisors-print-all-divisors/) | Know Basic Maths |
+| 2026-11-28 | [Check if the Number is Armstrong](./know-basic-maths/check-if-the-number-is-armstrong-check-if-the-number-is-armstrong/) | Know Basic Maths |
+| 2026-11-28 | [GCD of Two Numbers](./know-basic-maths/gcd-of-two-numbers-gcd-of-two-numbers/) | Know Basic Maths |
+| 2026-11-28 | [Palindrome Number](./know-basic-maths/palindrome-number-palindrome-number/) | Know Basic Maths |
+| 2026-11-28 | [Reverse a number](./know-basic-maths/reverse-a-number-reverse-a-number/) | Know Basic Maths |
+| 2026-11-28 | [Count all Digits of a Number](./know-basic-maths/count-all-digits-of-a-number-count-all-digits-of-a-number/) | Know Basic Maths |
+| 2026-11-28 | [Java Collections](./learn-stljava-collections-or-similar-thing-in-your-language/java-collections-java-collections/) | Learn STL/Java-Collections or similar thing in your language |
+| 2026-11-28 | [STL](./learn-stljava-collections-or-similar-thing-in-your-language/stl-stl/) | Learn STL/Java-Collections or similar thing in your language |
